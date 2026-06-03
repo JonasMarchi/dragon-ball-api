@@ -1,4 +1,5 @@
 Comandos utilizados:  
+
 npm create vite@latest dragonball-cards --template  
 
 --> Framework "React" --> Variant "JavaScript" --> Install now "yes"  
